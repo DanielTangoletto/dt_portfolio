@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  list-style-type: none;
+  text-decoration-line: none;
+  font-family: Montserrat;
+  scrollbar-width: none;
+}
+
+@media (max-width: 349px) {
+  * {
+    display: none;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}

@@ -1,0 +1,94 @@
+.presentation {
+    height: 850px;
+  }
+  
+  .presentation h2,
+  .presentation img,
+  .text_presentation {
+    position: absolute;
+    transform: translateX(-50%);
+  }
+  
+  .presentation h2 {
+    top: 920px;
+    left: 50%;
+  }
+  
+  .presentation img {
+    top: 1190px;
+    left: 18%;
+    width: 275px;
+    border-radius: 200px;
+  }
+  
+  .text_presentation {
+    top: 1100px;
+    left: 66%;
+    width: 60%;
+    font-size: 30px;
+    text-align: left;
+  }
+  
+  .text_presentation p {
+    margin: 40px 0px;
+  }
+  
+  .open_c,
+  .figma {
+    font-weight: 700;
+  }
+  .open_c {
+    color: #7451eb;
+  }
+  
+  .figma {
+    color: #f24e1e;
+  }
+  
+  @media (min-width: 1025px) and (max-width: 1440px) {
+    .text_presentation {
+      top: 1050px;
+    }
+  }
+  
+  @media (min-width: 500px) and (max-width: 1024px) {
+    .text_presentation {
+      font-size: 20px;
+      top: 1330px;
+      width: 90%;
+    }
+    .text_presentation p {
+      margin: 10px 0px;
+    }
+  
+    .presentation img {
+      width: 225px;
+      top: 1060px;
+    }
+  }
+  
+  @media (max-width: 1024px) {
+    .text_presentation,
+    .presentation img {
+      left: 50%;
+      transform: translateX(-50%);
+    }
+  
+    .text_presentation {
+      text-align: center;
+    }
+  }
+  
+  @media (max-width: 499px) {
+    .presentation img {
+      top: 1000px;
+      width: 200px;
+    }
+  
+    .text_presentation {
+      width: 80%;
+      top: 1220px;
+      font-size: 18px;
+    }
+  }
+  
