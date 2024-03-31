@@ -36,8 +36,7 @@
 }
 
 .skills:hover {
-  background-color: fff;
-  opacity: 0.9;
+  background-color: #b9b9b9;
   cursor: pointer;
 }
 
