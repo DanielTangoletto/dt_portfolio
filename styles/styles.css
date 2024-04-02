@@ -4,26 +4,3 @@
 @import "./projets.css";
 @import "./competences.css";
 @import "./footer.css";
-
-h2 {
-  font-size: 70px;
-  text-transform: uppercase;
-  font-weight: 900;
-  letter-spacing: 0.8vw;
-}
-
-@media (max-width: 499px) {
-  h2 {
-    font-size: 7vw;
-  }
-}
-
-@media (min-width: 500px) and (max-width: 1024px) {
-  h2 {
-    font-size: 6.5vw;
-  }
-}
-
-a:hover {
-  cursor: pointer;
-}
