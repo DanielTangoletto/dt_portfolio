@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "imageUrl": "./assets/logos/html.png",
+      "content": "HTML"
+    },
+    {
+        "id": "2",
+        "imageUrl": "./assets/logos/css.png",
+        "content": "CSS"
+      },
+      {
+        "id": "3",
+        "imageUrl": "./assets/logos/js.png",
+        "content": "Javascript"
+      },
+      {
+        "id": "4",
+        "imageUrl": "./assets/logos/react.png",
+        "content": "React"
+      },
+      {
+        "id": "5",
+        "imageUrl": "./assets/logos/figma.png",
+        "content": "Figma"
+      },
+      {
+        "id": "6",
+        "imageUrl": "./assets/logos/nodeJS.png",
+        "content": "NodeJS"
+      },
+      {
+        "id": "7",
+        "imageUrl": "./assets/logos/mongoDB.png",
+        "content": "MongoDB"
+      },
+      {
+        "id": "8",
+        "imageUrl": "./assets/logos/sass.png",
+        "content": "SASS"
+      },
+      {
+        "id": "9",
+        "imageUrl": "./assets/logos/github.png",
+        "content": "Github"
+      },
+      {
+        "id": "10",
+        "imageUrl": "./assets/logos/photoshop.png",
+        "content": "Photoshop"
+      }
+    
+  ]

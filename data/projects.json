@@ -1,0 +1,43 @@
+[
+  {
+    "id": "1",
+    "imageUrl": "./assets/logos/logo_booki.png",
+    "hyperlink": "https://github.com/DanielTangoletto/booki-starter-code",
+    "content": "Réalisation d’un site web responsive en HTML et CSS",
+    "class": "booki"
+  },
+  {
+    "id": "2",
+    "imageUrl": "./assets/logos/logo_sophie_bluel.png",
+    "hyperlink": "https://github.com/DanielTangoletto/Portfolio-architecte-sophie-bluel",
+    "content": "Création d’une page dynamique avec Javascript",
+    "class": "sophie"
+  },
+  {
+    "id": "3",
+    "imageUrl": "./assets/logos/logo_qwenta.png",
+    "content": "Planification de développement d’un site web",
+    "class": "qwenta"
+  },
+  {
+    "id": "4",
+    "imageUrl": "./assets/logos/logo_nina_carducci.png",
+    "hyperlink": "https://github.com/DanielTangoletto/nina-carducci.github.io",
+    "content": "Optimisation et debug d’une application web",
+    "class": "nina"
+  },
+  {
+    "id": "5",
+    "imageUrl": "./assets/logos/logo_kasa.png",
+    "hyperlink": "https://github.com/DanielTangoletto/projet_kasa",
+    "content": "Création d’une application web avec React",
+    "class": "kasa"
+  },
+  {
+    "id": "6",
+    "imageUrl": "./assets/logos/logo_grimoire.png",
+    "hyperlink": "https://github.com/DanielTangoletto/P7-Dev-Web-livres-oc",
+    "content": "Développement du back-end d’une application web",
+    "class": "grimoire"
+  }
+]
